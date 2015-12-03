@@ -115,8 +115,9 @@ public class MediaController extends FrameLayout implements SeekBar.OnSeekBarCha
     public void initTrimmedMode() {
         mMenuView.setVisibility(GONE);
         mMenuViewPlaceHolder.setVisibility(GONE);
-        mExpandImg.setVisibility(INVISIBLE);
-        mShrinkImg.setVisibility(INVISIBLE);
+//        mExpandImg.setVisibility(INVISIBLE);
+//        mShrinkImg.setVisibility(INVISIBLE);
+        setPageType(PageType.SHRINK);
     }
 
     /***
