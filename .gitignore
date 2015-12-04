@@ -5,3 +5,8 @@
 .DS_Store
 /build
 /captures
+.idea/inspectionProfiles/android.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/misc.xml
+.idea/uiDesigner.xml
